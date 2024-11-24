@@ -1,0 +1,166 @@
+
+[
+    {
+      "product_id":1,
+      "product_title": "iPhone 15 Pro Max",
+      "product_image": "../Iphone_15.jpg",
+      "category": "Phone",
+      "price": 1299,
+      "description": "The latest iPhone with A17 Bionic chip, 48MP camera, and ProMotion display.",
+      "specification": [
+        "Display: 6.7-inch OLED",
+        "Processor: A17 Bionic chip",
+        "Camera: 48MP triple camera",
+        "Battery: 4500 mAh",
+        "Storage: 128GB, 256GB, 512GB, 1TB"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "color": ["Graphite", "Gold", "Silver", "Blue"]
+    },
+    {
+      "product_id":2,
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "../download.jpg",
+      "category": "Phone",
+      "price": 1199,
+      "description": "High-end Samsung smartphone with S Pen, 200MP camera, and 5G support.",
+      "specification": [
+        "Display: 6.8-inch Dynamic AMOLED",
+        "Processor: Snapdragon 8 Gen 2",
+        "Camera: 200MP quad camera",
+        "Battery: 5000 mAh",
+        "Storage: 256GB, 512GB, 1TB"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "color": ["Phantom Black", "Green", "Red"]
+    },
+    {
+      "product_id":3,
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "../Googlephone.jpg",
+      "category": "Phone",
+      "price": 899,
+      "description": "Google's latest Pixel phone with Tensor G3 chip and advanced AI features.",
+      "specification": [
+        "Display: 6.7-inch LTPO OLED",
+        "Processor: Google Tensor G3",
+        "Camera: 50MP wide, 48MP telephoto",
+        "Battery: 5000 mAh",
+        "Storage: 128GB, 256GB"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "color": ["Obsidian", "Porcelain", "Sky"]
+    },
+    {
+      "product_id":4,
+      "product_title": "MacBook Pro 14-inch (M3 Pro)",
+      "product_image": "../macBooklaptop.jpg",
+      "category": "Laptop",
+      "price": 1999,
+      "description": "Powerful MacBook Pro with M3 Pro chip, ideal for professional tasks.",
+      "specification": [
+        "Display: 14-inch Liquid Retina XDR",
+        "Processor: Apple M3 Pro chip",
+        "RAM: 16GB, 32GB",
+        "Storage: 512GB, 1TB, 2TB",
+        "Battery Life: Up to 18 hours"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "color": ["Space Gray", "Silver"]
+    },
+    {
+      "product_id":5,
+      "product_title": "Dell XPS 15",
+      "product_image": "../dellLaptop15.jpg",
+      "category": "Laptop",
+      "price": 1699,
+      "description": "Premium laptop with stunning display and powerful Intel i7 processor.",
+      "specification": [
+        "Display: 15.6-inch OLED 4K",
+        "Processor: Intel Core i7-13700H",
+        "RAM: 16GB, 32GB",
+        "Storage: 512GB, 1TB",
+        "Battery Life: Up to 15 hours"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "color": ["Platinum Silver", "Frost White"]
+    },
+    {
+      "product_id":6,
+      "product_title": "HP Spectre x360",
+      "product_image": "../hpLaptop.jpg",
+      "category": "Laptop",
+      "price": 1399,
+      "description": "2-in-1 convertible laptop with touch display and long battery life.",
+      "specification": [
+        "Display: 13.3-inch FHD touch",
+        "Processor: Intel Core i7-1255U",
+        "RAM: 16GB",
+        "Storage: 512GB",
+        "Battery Life: Up to 14 hours"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "color": ["Nightfall Black", "Poseidon Blue"]
+    },
+    {
+      "product_id":7,
+      "product_title": "OnePlus 11",
+      "product_image": "../oneplusPhone.jpg",
+      "category": "Phone",
+      "price": 699,
+      "description": "Flagship phone with Hasselblad camera and fast 100W charging.",
+      "specification": [
+        "Display: 6.7-inch AMOLED",
+        "Processor: Snapdragon 8 Gen 2",
+        "Camera: 50MP main, 48MP ultrawide",
+        "Battery: 5000 mAh",
+        "Storage: 128GB, 256GB"
+      ],
+      "availability": false,
+      "rating": 4.4,
+      "color": ["Titan Black", "Eternal Green"]
+    },
+    {
+      "product_id":8,
+      "product_title": "ASUS ROG Zephyrus G14",
+      "product_image": "../asusLaptop.jpg",
+      "category": "Laptop",
+      "price": 1599,
+      "description": "Gaming laptop with Ryzen 9 processor and RTX 4070 graphics.",
+      "specification": [
+        "Display: 14-inch QHD 120Hz",
+        "Processor: AMD Ryzen 9 6900HS",
+        "Graphics: NVIDIA GeForce RTX 4070",
+        "RAM: 16GB",
+        "Storage: 1TB SSD"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "color": ["Eclipse Gray", "Moonlight White"]
+    },
+    {
+      "product_id":9,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "../LenovoLaptop.jpg",
+      "category": "Laptop",
+      "price": 1499,
+      "description": "Business laptop with exceptional build quality and long battery life.",
+      "specification": [
+        "Display: 14-inch FHD",
+        "Processor: Intel Core i7-1260P",
+        "RAM: 16GB",
+        "Storage: 512GB SSD",
+        "Battery Life: Up to 20 hours"
+      ],
+      "availability": false,
+      "rating": 4.6,
+      "color": ["Black", "Storm Gray"]
+    }
+  ]
+  
